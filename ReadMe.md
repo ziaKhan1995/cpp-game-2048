@@ -46,7 +46,34 @@ The algorithm can also be explained as
       
 
 
+# Snapshots
+## 1 (initially)
+![image](https://user-images.githubusercontent.com/77499979/228009841-d5b258c7-d4a6-4ea8-9fed-fe3c482d1ff8.png)
 
+ 
+## (2) After moving some tiles , screen
+![image](https://user-images.githubusercontent.com/77499979/228009959-9ecdf359-a28a-4c21-853b-93da3d13f02f.png)
+
+ 
+## (3) When user press Escape key ,want to restart the game 
+
+![image](https://user-images.githubusercontent.com/77499979/228010016-48d2dbcb-1bb2-4657-a1a5-903b37ea0639.png)
+
+
+ 
+
+## (4) when user press END key  to exit the game
+![image](https://user-images.githubusercontent.com/77499979/228010098-88dcffda-46e1-4b90-a567-64c23aafe24e.png)
+
+
+ 
+## (5)
+ ![image](https://user-images.githubusercontent.com/77499979/228010207-ee6c947a-754a-4ae3-9d26-e89f81360593.png)
+
+
+## (6) when game over function is called
+
+![image](https://user-images.githubusercontent.com/77499979/228010295-dfe1c7b4-c502-4149-9871-edf6b400ac3c.png)
 
 
 
