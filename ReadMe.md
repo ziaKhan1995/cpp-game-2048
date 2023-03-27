@@ -28,13 +28,13 @@ Goals:
 
 
 Algorithm:
-I chose to store the field in a two-dimensional array called board that is 4×4.
-
+I chose to store the field in a two-dimensional array called board that is 4Ã—4.
+```diff
 1=[2][0][8][2]          [2][4][8][4]
 2=[0][4][0][2]  press   [4][8][4][4]
 3=[4][0][2][2]  up key  [0][0][0][0]
 4=[0][8][2][2]          [0][0][0][0]
-
+````
 The algorithm can also be explained as 
 
  => To take a search over the two dimensional array   from the first to the last number
